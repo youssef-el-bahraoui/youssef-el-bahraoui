@@ -25,7 +25,7 @@ and Proteus.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=youssef-el-bahhraoui&style=flat-square&color=0078d4&label=PROFILE+VIEWS)]
+![Profile Views](https://komarev.com/ghpvc/?username=youssef-el-bahraoui&style=flat-square&color=0078d4&label=PROFILE+VIEWS)]
 
 </div>
 
@@ -80,12 +80,12 @@ I’m currently learning **Python & Web Development**.
 ---
 ​📊 GitHub Analytics
 ​<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=youssef-el-bahhraoui&show_icons=true&theme=nord&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-el-bahhraoui&layout=compact&theme=nord&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=youssef-el-bahraoui&show_icons=true&theme=nord&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-el-bahraoui&layout=compact&theme=nord&count_private=true" width="48%" />
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-el-bahhraoui&theme=nord" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-el-bahraoui&theme=nord" width="97%" />
 </div>
 ​The Code Cycle
 ​<div align="center">
