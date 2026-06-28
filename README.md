@@ -11,7 +11,8 @@
 
 About Me:
 A hands-on Physics & Electronics student dedicated to transforming theoretical logic into functional hardware solutions.
-Specializing in Embedded C/C++ and Python, with practical experience in simulating complex systems using MATLAB/Simulink and Proteus.
+Specializing in Embedded C/C++ and Python, with practical experience in simulating complex systems using MATLAB/Simulink
+and Proteus.
 ​
 🛠️ Hardware: ESP32, Arduino, Sensors Interfacing, IoT Architecture.
 
