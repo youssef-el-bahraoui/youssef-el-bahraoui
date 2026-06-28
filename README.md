@@ -47,7 +47,6 @@ Specializing in **Embedded C/C++** and **Python**, with practical experience in 
 ---
 
 ## ⚡ Core Fields & Developer Identity
-
 ``cpp
 struct EmbeddedEngineer {
     std::vector<std::string> fields     = { "Robotics", "Automation", "IoT Architecture", "AI Basics" };
@@ -55,3 +54,33 @@ struct EmbeddedEngineer {
     std::vector<std::string> hardware   = { "Microcontrollers (ESP32/Arduino)", "Sensors Interfacing" };
     std::vector<std::string> soft_skills = { "Discipline", "Self-Study", "High-Pressure Time Management" };
 };
+
+
+​<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />   Exploring the intersection of Robotics, Embedded Hardware, and Smart Automation.
+​<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="22" />   Ask me about Physics, Hardware Simulation (Proteus/Matlab), or Firmware Programming.
+​<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="22" />   Find me on Telegram: Ｊａｕｓｅｆよ往グ よ往グ
+​<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />   Fun Fact: I drink coffee like it's high-octane compiler fuel.
+​<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" />
+​📊 GitHub Analytics
+​<div align="center">
+<a href="https://github.com/youssef-el-bahhraoui">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+</a>
+​<details>
+<summary>🔍 View Extended Details</summary>
+
+
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="80%">
+</details>
+</div>
+​The Code Cycle
+​<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="Debug"/>           
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="Compile"/>           
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="Deploy"/>
+
+
+<sub><i>Debug                                Compile                                Deploy</i></sub>
+</div>
