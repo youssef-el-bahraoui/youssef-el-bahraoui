@@ -7,14 +7,14 @@
 
 ---
 
-## 👋 السلام عليكم، أنا يوسف
+## 👋 HI I'M YOUSSEF
 
-- 🎓 طالب في *الفيزياء – السنة الثالثة (Licence)*  
-- 🤖 مهتم بـ *الروبوتيك، Arduino، الإلكترونيات، وذكاء اصطناعي*  
-- 🐍 كتطوّر مهاراتي فـ *Python* ومشاريع Automations  
-- 🎧 كنخدم بالليل (McDonald’s) وكنوازن بين الخدمة والقراية  
-- 🏋‍♂ كنتمرّن *Push / Pull / Legs* 3 مرات فالأسبوع  
-- 🎯 هدفي: *استقرار مادي* وبناء Career فالميادين التقنية  
+About Me:
+"A hands-on Physics & Electronics student dedicated to transforming theoretical logic into functional hardware solutions.
+Specializing in Embedded C/C++ and Python, with practical experience in simulating complex systems using MATLAB/Simulink and Proteus.
+​🛠️ Hardware: ESP32, Arduino, Sensors Interfacing, IoT Architecture.
+​💻 Software: Automation scripts, No-Code workflows, Data simulation.
+​🚀 Currently building a robust portfolio of smart systems to solve real-world industrial and automation challenges."
 
 ---
 
