@@ -78,6 +78,18 @@ I’m currently learning **Python & Web Development**.
 
 ---
 ​📊 GitHub Analytics
+
+
+---
+## 📁 Featured Projects
+
+| Project Name | Tech Stack | Status | Links |
+| :--- | :--- | :--- | :--- |
+| **🤖 Interactive ESP32 Robot** | ESP32, C++, OLED, DFPlayer | 🚀 Completed | [Code](https://github.com/youssef-el-bahhraoui) \ | [Simulation Video](#) |
+| **🚗 Smart Parking System** | Arduino, IR Sensors, LiquidCrystal | 🛠️ In Progress | [Code](https://github.com/youssef-el-bahhraoui) |
+| **🌱 Smart Plant Watering System** | Automation, Sensors, Python | 📅 Upcoming | [Design](#) |
+
+
 ​<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=youssef-el-bahraoui&show_icons=true&theme=nord&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-el-bahraoui&layout=compact&theme=nord&count_private=true" width="48%" />
