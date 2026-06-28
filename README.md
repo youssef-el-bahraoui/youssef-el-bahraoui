@@ -1,86 +1,102 @@
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
+
+</div>
+
+---
+
+## 👋 HI I'M YOUSSEF
+
+About Me:
+A hands-on Physics & Electronics student dedicated to transforming theoretical logic into functional hardware solutions.
+Specializing in Embedded C/C++ and Python, with practical experience in simulating complex systems using MATLAB/Simulink
+and Proteus.
+
+
+🛠️ Hardware: ESP32, Arduino, Sensors Interfacing, IoT Architecture.
+
+​💻 Software: Automation scripts, No-Code workflows, Data simulation.
+
+​🚀 Currently building a robust portfolio of smart systems to solve real-world industrial and automation challenges.
+
+---
+
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="50%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%"/><br> 
-
-# 👋 HI, I'M YOUSSEF EL BAHHRAOUI
-
-[![Profile Views](https://komarev.com/ghpvc/?username=youssef-el-bahhraoui&style=flat-square&color=0078d4&label=PROFILE+VIEWS)](https://github.com/youssef-el-bahhraoui)
+![Profile Views](https://komarev.com/ghpvc/?username=Youssef&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🛠 الأدوات اللي كنستعمل
 
-A hands-on **Applied Physics & EASE (Electronics, Automation, & Electronic Systems)** student dedicated to transforming theoretical logic into functional hardware solutions. 
-
-Specializing in **Embedded C/C++** and **Python**, with practical experience in simulating complex systems using **MATLAB/Simulink** and **Proteus**. Highly disciplined, mastering time management by balancing engineering studies with high-intensity execution.
-
-* 🛠️ **Hardware:** ESP32, Arduino, Sensors Interfacing, IoT Architecture, Circuits Design.
-* 💻 **Software & Tools:** Automation scripts, No-Code workflows, Data simulation, Git.
-* 🎯 **Current Focus:** Building a robust portfolio of smart hardware systems to solve real-world industrial challenges.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div>
-  <img src="https://img.shields.io/badge/C++ -00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matlab-ED8B00?style=for-the-badge&logo=mathworks&mathworksColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
-
-<br>
-
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-</div>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/Matlab-orange?style=flat&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-## ⚡ Core Fields & Developer Identity
-``cpp
-struct EmbeddedEngineer {
-    std::vector<std::string> fields     = { "Robotics", "Automation", "IoT Architecture", "AI Basics" };
-    std::vector<std::string> core_tech  = { "Embedded C++", "Python Scripts", "MATLAB Control Systems" };
-    std::vector<std::string> hardware   = { "Microcontrollers (ESP32/Arduino)", "Sensors Interfacing" };
-    std::vector<std::string> soft_skills = { "Discipline", "Self-Study", "High-Pressure Time Management" };
-};
+## ⚡ المجالات اللي كنخدم عليها
 
 
-​<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />   Exploring the intersection of Robotics, Embedded Hardware, and Smart Automation.
-​<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="22" />   Ask me about Physics, Hardware Simulation (Proteus/Matlab), or Firmware Programming.
-​<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="22" />   Find me on Telegram: Ｊａｕｓｅｆよ往グ よ往グ
-​<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />   Fun Fact: I drink coffee like it's high-octane compiler fuel.
-​<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" />
-​📊 GitHub Analytics
-​<div align="center">
-<a href="https://github.com/youssef-el-bahhraoui">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</a>
-​<details>
-<summary>🔍 View Extended Details</summary>
+class AboutMe {
+  const goals = {
+    "Fields" : { "Robotics", "Arduino Projects", "Automation", "AI Basics" },
+    "ProgrammingSkills" : { "Python", "C", "MATLAB", "Embedded Projects" },
+    "SoftSkills" : { "Discipline", "Night-work balance", "Self-study" },
+    "Hardware" : { "Sensors", "Microcontrollers", "Circuits" }
+  };
+} 
+
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;  
+I’m currently learning **Python & Web Development**.
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;  
+  I like exploring **Robotics & AI**.
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;  
+  Ask me about **Physics, Tech, or anything**.
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;  
+  Find me on Telegram: **Ｊａｕｓｅｆよ往グ よ往グ**
+
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;
+  Fun fact: I drink coffee like it's compiler fuel ⚡.
 
 
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="80%">
-</details>
+---
+
+<div align="center">
+  <a href="https://github.com/youssef-el-bahhraoui">
+    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  </a>
+
+  <details>
+    <summary>More stats</summary>
+    <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+  </details>
 </div>
-​The Code Cycle
-​<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="Debug"/>           
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="Compile"/>           
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="Deploy"/>
 
+---
 
-<sub><i>Debug                                Compile                                Deploy</i></sub>
+### **Code Cycle**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Confused"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Working"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Magic"/>
 </div>
